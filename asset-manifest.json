@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.af8aeb97.chunk.css",
-    "main.js": "/static/js/main.57d276c8.chunk.js",
-    "main.js.map": "/static/js/main.57d276c8.chunk.js.map",
+    "main.js": "/static/js/main.fd8f6249.chunk.js",
+    "main.js.map": "/static/js/main.fd8f6249.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6eac8dde.js",
     "runtime-main.js.map": "/static/js/runtime-main.6eac8dde.js.map",
     "static/js/2.f10c91e3.chunk.js": "/static/js/2.f10c91e3.chunk.js",
@@ -21,16 +21,29 @@
     "static/media/07.66449cc0.jpg": "/static/media/07.66449cc0.jpg",
     "static/media/08.392725f1.jpg": "/static/media/08.392725f1.jpg",
     "static/media/09.42f4dd56.jpg": "/static/media/09.42f4dd56.jpg",
+    "static/media/admin.991d6ac9.jpg": "/static/media/admin.991d6ac9.jpg",
+    "static/media/advertisers.63d0dd82.jpg": "/static/media/advertisers.63d0dd82.jpg",
     "static/media/main.css": "/static/media/overlay.49b8d1e2.png",
+    "static/media/booking.883d801e.jpg": "/static/media/booking.883d801e.jpg",
+    "static/media/elementos.a4b17020.jpg": "/static/media/elementos.a4b17020.jpg",
+    "static/media/flyer.bed57002.jpg": "/static/media/flyer.bed57002.jpg",
+    "static/media/flyer_2.c2ad9ffb.jpg": "/static/media/flyer_2.c2ad9ffb.jpg",
+    "static/media/github.9dd3fc98.svg": "/static/media/github.9dd3fc98.svg",
+    "static/media/home.4606b366.jpg": "/static/media/home.4606b366.jpg",
+    "static/media/home.a8a3c10f.jpg": "/static/media/home.a8a3c10f.jpg",
+    "static/media/live.ca28858b.jpg": "/static/media/live.ca28858b.jpg",
+    "static/media/new_cereza.3a401206.jpg": "/static/media/new_cereza.3a401206.jpg",
     "static/media/pic01.7696e0d5.jpg": "/static/media/pic01.7696e0d5.jpg",
     "static/media/pic02.093c9c70.jpg": "/static/media/pic02.093c9c70.jpg",
     "static/media/pic03.2f7eede4.jpg": "/static/media/pic03.2f7eede4.jpg",
-    "static/media/profile_picture.6a69b642.jpg": "/static/media/profile_picture.6a69b642.jpg"
+    "static/media/profile_picture.6a69b642.jpg": "/static/media/profile_picture.6a69b642.jpg",
+    "static/media/providers.429ef36b.jpg": "/static/media/providers.429ef36b.jpg",
+    "static/media/select_date.16063b04.jpg": "/static/media/select_date.16063b04.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6eac8dde.js",
     "static/js/2.f10c91e3.chunk.js",
     "static/css/main.af8aeb97.chunk.css",
-    "static/js/main.57d276c8.chunk.js"
+    "static/js/main.fd8f6249.chunk.js"
   ]
 }
