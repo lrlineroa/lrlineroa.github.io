@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.af8aeb97.chunk.css",
-    "main.js": "/static/js/main.fd8f6249.chunk.js",
-    "main.js.map": "/static/js/main.fd8f6249.chunk.js.map",
+    "main.js": "/static/js/main.8df58015.chunk.js",
+    "main.js.map": "/static/js/main.8df58015.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6eac8dde.js",
     "runtime-main.js.map": "/static/js/runtime-main.6eac8dde.js.map",
     "static/js/2.f10c91e3.chunk.js": "/static/js/2.f10c91e3.chunk.js",
@@ -26,24 +26,35 @@
     "static/media/main.css": "/static/media/overlay.49b8d1e2.png",
     "static/media/booking.883d801e.jpg": "/static/media/booking.883d801e.jpg",
     "static/media/elementos.a4b17020.jpg": "/static/media/elementos.a4b17020.jpg",
+    "static/media/expositors.137a27bb.jpg": "/static/media/expositors.137a27bb.jpg",
     "static/media/flyer.bed57002.jpg": "/static/media/flyer.bed57002.jpg",
     "static/media/flyer_2.c2ad9ffb.jpg": "/static/media/flyer_2.c2ad9ffb.jpg",
     "static/media/github.9dd3fc98.svg": "/static/media/github.9dd3fc98.svg",
     "static/media/home.4606b366.jpg": "/static/media/home.4606b366.jpg",
     "static/media/home.a8a3c10f.jpg": "/static/media/home.a8a3c10f.jpg",
+    "static/media/home.e35bb9bf.jpg": "/static/media/home.e35bb9bf.jpg",
     "static/media/live.ca28858b.jpg": "/static/media/live.ca28858b.jpg",
+    "static/media/my_miracle_QR.2933588d.jpg": "/static/media/my_miracle_QR.2933588d.jpg",
+    "static/media/my_miracle_home.112c0cff.jpg": "/static/media/my_miracle_home.112c0cff.jpg",
+    "static/media/my_miracle_login.5927c831.jpg": "/static/media/my_miracle_login.5927c831.jpg",
     "static/media/new_cereza.3a401206.jpg": "/static/media/new_cereza.3a401206.jpg",
     "static/media/pic01.7696e0d5.jpg": "/static/media/pic01.7696e0d5.jpg",
     "static/media/pic02.093c9c70.jpg": "/static/media/pic02.093c9c70.jpg",
     "static/media/pic03.2f7eede4.jpg": "/static/media/pic03.2f7eede4.jpg",
     "static/media/profile_picture.6a69b642.jpg": "/static/media/profile_picture.6a69b642.jpg",
     "static/media/providers.429ef36b.jpg": "/static/media/providers.429ef36b.jpg",
-    "static/media/select_date.16063b04.jpg": "/static/media/select_date.16063b04.jpg"
+    "static/media/schedule.41321a07.jpg": "/static/media/schedule.41321a07.jpg",
+    "static/media/select_date.16063b04.jpg": "/static/media/select_date.16063b04.jpg",
+    "static/media/ser_mujer_home.5111ed20.jpg": "/static/media/ser_mujer_home.5111ed20.jpg",
+    "static/media/ser_mujer_login.c121c538.jpg": "/static/media/ser_mujer_login.c121c538.jpg",
+    "static/media/tarjetaapp_QR.d903b56b.jpg": "/static/media/tarjetaapp_QR.d903b56b.jpg",
+    "static/media/tarjetaapp_login.b2b5423e.jpg": "/static/media/tarjetaapp_login.b2b5423e.jpg",
+    "static/media/tarjetaapp_register.96713aa2.jpg": "/static/media/tarjetaapp_register.96713aa2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6eac8dde.js",
     "static/js/2.f10c91e3.chunk.js",
     "static/css/main.af8aeb97.chunk.css",
-    "static/js/main.fd8f6249.chunk.js"
+    "static/js/main.8df58015.chunk.js"
   ]
 }
